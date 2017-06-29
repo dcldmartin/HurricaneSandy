@@ -1,0 +1,8 @@
+*.webloc
+*.Rhistory
+
+# only actual notebook snapshots, no checkpoints
+.ipynb_checkpoints/*
+
+# Don't track weird Word files you don't want:
+*~$*.docx
