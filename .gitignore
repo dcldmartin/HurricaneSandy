@@ -4,5 +4,11 @@
 # only actual notebook snapshots, no checkpoints
 .ipynb_checkpoints/*
 
+# Exclude notebooks in this repo
+*.ipynb
+
+# Exclude QGIS projects
+*.qgs*
+
 # Don't track weird Word files you don't want:
 *~$*.docx
