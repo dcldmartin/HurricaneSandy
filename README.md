@@ -36,11 +36,10 @@ Of course some places are more likely than others to be hit; hurricanes tend to 
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/25906562/27714434-707261f2-5cf6-11e7-917b-6842b0a3d1df.png" width=500>
-	<div align=center><small><i>Above: The North Carolina counties Obama won in blue, and his overall state-wide vote share.</i>
-	</small>
+	<div align=left><i>Above: The North Carolina counties Obama won in blue, and his overall state-wide vote share.</i>
+	
 	</div>
-	<div align=center><small><i>Below: We estimate the light blue counties would have flipped for Obama, along with North Carolina overall, had the storm covered the state.</i>
-	</small>
+	<div align=left><i>Below: We estimate the light blue counties would have flipped for Obama, along with North Carolina overall, had the storm covered the state.</i>
 	</div>
 </div>
 
@@ -54,9 +53,9 @@ North Carolina was mostly spared though some weather models predicted the storm 
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/25906562/27714433-707272dc-5cf6-11e7-9394-f4b9834fb489.png" width=500>
-    <div align=center><small><i>Above: Obama Carried Virginia by a narrow margin</i></small>
+    <div align=left><i>Above: Obama Carried Virginia by a narrow margin</i>
     </div>
-    <div align=center><small><i>Below: Had the storm _not_ hit, we estimate the counties in pink would have gone for Romney, shaving away Obama's lead.</i></small>
+    <div align=left><i>Below: Had the storm _not_ hit, we estimate the counties in pink would have gone for Romney, shaving away Obama's lead.</i>
     </div>
 </div>
 
