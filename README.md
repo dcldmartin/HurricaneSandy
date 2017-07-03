@@ -30,7 +30,7 @@ By all accounts, though there were large, long-term power outages in affected ar
 We used FEMA data to identify which counties received at least some storm damage from the Hurricane. As anyone who’s closely tracked the Weather Channel knows, it can be difficult to predict precisely when and where a storm may hit. The element of randomness means that we can treat this statistically like a natural experiment – some places were hit and some places weren’t. Barring some ecclesiastical interpretations of these events, the reason why one county was spared and another harmed aren’t necessarily due to their politics, so we can compare one group to the other and conclude that the difference in their election outcomes is likely due to the storm.
 
 Of course some places are more likely than others to be hit; hurricanes tend to stick to the coasts and that’s where a lot of Democrats are. To account for this, we use a matching algorithm to find counties that are as similar as possible accept for the fact that one was hit and the other unharmed (measuring things like demographics, income, education, voter turnout and past weather damage). This allows us to make a better apples-to-apples comparison.
-
+<br><br>
 
 ---
 
@@ -43,10 +43,10 @@ Of course some places are more likely than others to be hit; hurricanes tend to 
 </div>
 
 ---
-
 <br><br>
 
 North Carolina was mostly spared though some weather models predicted the storm going through the state. What if every county in the state had been hit by the storm, as was the case in Maryland and New Jersey? Obama would have won the state.
+<br><br>
 
 ---
 
