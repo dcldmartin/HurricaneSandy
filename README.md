@@ -5,31 +5,30 @@
 
 ---
 
-2012, an election coincided with one of the biggest storms for years. Research has shown that Democrats tend to be disproportionately negatively impacted by poor weather, most likely due to problems with transportation affecting lower income voters likelihood to turnout, who in turn are disproportionately more likely to vote Democratic.
+Just a week away from Election Day in 2012, with national polls indicating a closely divided electorate, both Presidential campaigns were forced to suspend public appearances and fund raising due to a potentially devastating storm. In the end, Hurricane Sandy caused damage exceeding $50 Billion, making it among the largest and most costly hurricanes to hit the US in a hundred years. A natural disaster of this magnitude so close to a Presidential election was unprecedented. No one could be sure what impact it would have.
 
--	Storm damage exceeded $50 Billion. Among the most costly storms for a hundred years.
+After the election, my colleague Yamil Velez and I assembled data on election results and federal disaster assessments. We estimated that the effect was actually fairly large: President Obama received a roughly four percentage point bump in his share of the vote in areas affected by the storm. And while it's unlikey that the hurricane tipped the scales of the election overall, it likely influenced the electoral college results in some states.
 
-Usually we’re talking about rain or snow. What about a hurricane? If you’re a firm believer that campaigns are an opportunity for voters to learn more about the candidates, you could see natural disaster as an opportunity to show their competence. If you’re a little more cynical, you might say that dispensing disaster relief is a ready way for incumbents to shell out cash to constituents they want to vote for them – though this is generally frowned upon, there’s some evidence to suggest this kind of thing happens.
+That a President would benefit from a natural disaster so close to an election isn't a foregone conclusion but there's some good reason to believe it might happen. One way of thinking about this kind of situation is that it's an opportunity to see the current President in action. If elections are a chance for voters to pay close attention and figure out whether their leader knows what he or she is doing, a massive disaster response could be potentially quite revealing. This is in line with what Political Scientists Christopher Achens and Larry Bartels describe in a [recent book](http://press.princeton.edu/titles/10671.html), as the 'folk theory' of democracy. Voters know pretty much what they want in a leader, and they know it when they see it. Voting is mostly about collecting information and finding the person who will do a good job advocating for them.
 
-What’s more, a growing body of evidence suggests that political leaders get blamed all the time for things that they have no control over – shark attack, droughts, fluctuations in global oil prices – or they may see a bump when the local college football team is doing well.
+And sometimes it does work this way: Presidents get punished for bad economies; school boards get punished for failing test scores. But people in charge get blamed for a lot of things that go badly, whether it's their fault or not. For example, there's evidence that members of congress tend to be more likley to win their seat when their local football team is also winning. Drought, flooding, even a rough spate of shark attacks at public beaches has been linked to incumbents taking losses at the polls. In other words, while a president could get rewarded for acting decisively in a time of crisis, they may just as easily take blame from voters for events far above their paygrade.
 
-So, some reasons to suggest it could help, others to suggest it could hurt.
+In the specific case of Sandy, polls after the fact showed an overwhelmingly positive appraisal of the relief effort, from President Obama to the governors of New York and New Jersey and the New York City mayor. 
 
-We estimated that counties hit by the hurricane got a bump of around 4 points (plus or minus a two point margin of error). How do we know? 
-
-
-<div class="image" align='center'>
-<img src="https://user-images.githubusercontent.com/25906562/27714432-705d43a8-5cf6-11e7-8859-f9f2bb92305d.png" align="center" width="700">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/25906562/27714432-705d43a8-5cf6-11e7-8859-f9f2bb92305d.png" width="700">
     <div align='left'><i>FEMA map of Sandy Impact</i>
     </div>
 </div>
 
 <br><br>
-By all accounts, though there were large, long-term power outages in affected areas, the public tended not to put the blame on the President. Available polls reported broad support for Governors Cuomo and Christie of New York and New Jersey, and FEMA and President Obama received positive ratings afterward. 
 
-We used FEMA data to identify which counties received at least some storm damage from the Hurricane. As anyone who’s closely tracked the Weather Channel knows, it can be difficult to predict precisely when and where a storm may hit. The element of randomness means that we can treat this statistically like a natural experiment – some places were hit and some places weren’t. Barring some ecclesiastical interpretations of these events, the reason why one county was spared and another harmed aren’t necessarily due to their politics, so we can compare one group to the other and conclude that the difference in their election outcomes is likely due to the storm.
+In order to estimate the impact of Hurricane Sandy on the election, we start with a basic assumption: storms hit some places rather than others more or less by random. Obviously coastal areas are more likely to be damaged than those far inland, but precisely where on the coast is notoriously difficult to predict. For our purposes, this means we can treat this as a natural experiment. If there's one county that receives damage and another nearby that's otherwise roughly the same but doesn't get hit, the difference in how the election turned out should tell you roughly what the impact of the hurricane was.
 
-Of course some places are more likely than others to be hit; hurricanes tend to stick to the coasts and that’s where a lot of Democrats are. To account for this, we use a matching algorithm to find counties that are as similar as possible accept for the fact that one was hit and the other unharmed (measuring things like demographics, income, education, voter turnout and past weather damage). This allows us to make a better apples-to-apples comparison.
+Of course, counties aren't all alike, and some areas really were more likely to be hit than others. We accounted for this by using a matching algorithm that took counties that were hit by the storm and found another county in the US that was a spitting image, along as many metrics as we had (income, population demographics, recent election results, among others) to make the most fair comparison possible.
+
+Taking into account all the areas that were affected, we found that the average impact of the storm was about 4 percentage points in the vote share between the two major party candidates, with a margin of error of 2 percentage points. And yet, though the impact we measured was fairly large, the areas that took the brunt of the storm -- Connecticut, New York and New Jersey -- were unlikely to go for Romney under any conditions. The storm was almost certainly not decisive in handing the election to President Obama. Nevertheless, the storm may genuinely have had an impact on the electoral college vote count.
+
 <br><br>
 
 
@@ -43,7 +42,8 @@ Of course some places are more likely than others to be hit; hurricanes tend to 
 
 <br><br>
 
-North Carolina was mostly spared though some weather models predicted the storm going through the state. What if every county in the state had been hit by the storm, as was the case in Maryland and New Jersey? Obama would have won the state.
+
+Though some weather models predicted North Carolina was in the hurrican's path, it ended up being mostly spared and narrowly won by Romney. We estimated that, in the event that all of the state's counties had been impacted in some way by the hurricane or related extreme weather patterns, the impact would have been enough to flip North Carolina for Obama.
 <br><br>
 
 
@@ -58,4 +58,4 @@ North Carolina was mostly spared though some weather models predicted the storm 
 
 <br><br>
 
-Virginia was another key swing state, narrowly won by Obama. There was a good bit more storm damage there. By our estimate, if the storm had steered entirely away from the state, it would likely have gone to Romney, though given that so many of the affected states were not close, we can’t say Obama owes his victory to the storm.
+In the case of Virginia, another key swing state, there was significantly greater damage and Obama narrowly took the state. By our estimate, if the storm had missed the state entirely it would likely have gone for Romney instead.
