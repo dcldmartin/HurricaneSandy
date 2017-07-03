@@ -33,7 +33,7 @@ We used FEMA data to identify which counties received at least some storm damage
 Of course some places are more likely than others to be hit; hurricanes tend to stick to the coasts and that’s where a lot of Democrats are. To account for this, we use a matching algorithm to find counties that are as similar as possible accept for the fact that one was hit and the other unharmed (measuring things like demographics, income, education, voter turnout and past weather damage). This allows us to make a better apples-to-apples comparison.
 
 
-<figure style="float: center; width: 500; text-align: center;">
+<figure style="float: center; width: 30%; text-align: center;">
 	<img src="https://user-images.githubusercontent.com/25906562/27714434-707261f2-5cf6-11e7-917b-6842b0a3d1df.png">
 	<figcaption>
 	    <div>Above: The North Carolina counties Obama won in blue, and his overall state-wide vote share.
@@ -48,7 +48,7 @@ Of course some places are more likely than others to be hit; hurricanes tend to 
 
 North Carolina was mostly spared though some weather models predicted the storm going through the state. What if every county in the state had been hit by the storm, as was the case in Maryland and New Jersey? Obama would have won the state.
 
-<figure style="float: center; width: 500; text-align: center;">
+<figure style="float: center; width: 30%; text-align: center;">
 	<img src="https://user-images.githubusercontent.com/25906562/27714433-707272dc-5cf6-11e7-9394-f4b9834fb489.png">
 	<figcaption>
 	    <div>Above: Obama Carried Virginia by a narrow margin
