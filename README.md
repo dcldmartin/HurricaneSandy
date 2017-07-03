@@ -20,7 +20,7 @@ We estimated that counties hit by the hurricane got a bump of around 4 points (p
 
 <div class="image" align='center'>
 <img src="https://user-images.githubusercontent.com/25906562/27714432-705d43a8-5cf6-11e7-8859-f9f2bb92305d.png" align="center" width="700">
-    <div align='center'><strong>FEMA map of Sandy Impact</strong>
+    <div align='left'><i>FEMA map of Sandy Impact</i>
     </div>
 </div>
 
@@ -32,7 +32,6 @@ We used FEMA data to identify which counties received at least some storm damage
 Of course some places are more likely than others to be hit; hurricanes tend to stick to the coasts and that’s where a lot of Democrats are. To account for this, we use a matching algorithm to find counties that are as similar as possible accept for the fact that one was hit and the other unharmed (measuring things like demographics, income, education, voter turnout and past weather damage). This allows us to make a better apples-to-apples comparison.
 <br><br>
 
----
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/25906562/27714434-707261f2-5cf6-11e7-917b-6842b0a3d1df.png" width=500>
@@ -42,13 +41,11 @@ Of course some places are more likely than others to be hit; hurricanes tend to 
 	</div>
 </div>
 
----
 <br><br>
 
 North Carolina was mostly spared though some weather models predicted the storm going through the state. What if every county in the state had been hit by the storm, as was the case in Maryland and New Jersey? Obama would have won the state.
 <br><br>
 
----
 
 <div align="center">
 	<img src="https://user-images.githubusercontent.com/25906562/27714433-707272dc-5cf6-11e7-9394-f4b9834fb489.png" width=500>
@@ -58,7 +55,6 @@ North Carolina was mostly spared though some weather models predicted the storm 
     </div>
 </div>
 
----
 
 <br><br>
 
