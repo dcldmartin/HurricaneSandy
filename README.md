@@ -17,7 +17,7 @@ In the specific case of Sandy, polls after the fact showed an overwhelmingly pos
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/25906562/27714432-705d43a8-5cf6-11e7-8859-f9f2bb92305d.png" width="700">
-    <div align='left'><i>FEMA map of Sandy Impact</i>
+    <div align='left'><i>FEMA map of states affected by Hurricane Sandy</i>
     </div>
 </div>
 
