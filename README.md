@@ -29,6 +29,8 @@ In the specific case of Sandy, polls after the fact showed an overwhelmingly pos
 
 <br><br>
 
+**Measuring Sandy's impact**
+
 In order to estimate the impact of Hurricane Sandy on the election, we started with a basic assumption: storms hit some places rather than others more or less by random. Obviously coastal areas are more likely to be damaged than those far inland, but precisely where on the coast is notoriously difficult to predict, even with state-of-the art weather models. From a statistical point of view, this randomness is useful because it means we can treat this as a natural experiment. Think of it like this: imagine two towns are exactly the same but only one is hit by the storm, entirely at random. Both towns go to vote. If the process was truly random and the towns were the same, we could assume that any difference in the outcome is because of the storm. There may even be small differences between the towns, purely by chance. This complicates things a bit, but with data from enough towns we can get a pretty good estimate.
 
 Of course, some areas really were more likely to be hit than others. We accounted for this by using a matching algorithm that took counties that were affected by the storm and found another county in the US that was nearly identical but was missed. We matched counties along as many metrics as we had (income, population demographics, recent election results, among others) to make the most fair comparison possible and measured the difference in the election outcomes.
